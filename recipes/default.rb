@@ -9,3 +9,5 @@ include_recipe 'jenkins::master'
 git_client 'default' do
   action :install
 end
+
+include_recipe 'chef-dk'
