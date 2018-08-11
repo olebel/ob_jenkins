@@ -1,1 +1,1 @@
-idefault['chef_dk']['version'] = '1.4.3'
+default['chef_dk']['version'] = '1.4.3'
